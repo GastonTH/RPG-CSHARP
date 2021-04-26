@@ -1,0 +1,13 @@
+C:\Users\Noct0\Documents\GitHub\RPG-CSHARP\RPGConsole\RPGConsole\obj\Debug\netcoreapp3.1\RPGConsole.csprojAssemblyReference.cache
+C:\Users\Noct0\Documents\GitHub\RPG-CSHARP\RPGConsole\RPGConsole\obj\Debug\netcoreapp3.1\RPGConsole.AssemblyInfoInputs.cache
+C:\Users\Noct0\Documents\GitHub\RPG-CSHARP\RPGConsole\RPGConsole\obj\Debug\netcoreapp3.1\RPGConsole.AssemblyInfo.cs
+C:\Users\Noct0\Documents\GitHub\RPG-CSHARP\RPGConsole\RPGConsole\obj\Debug\netcoreapp3.1\RPGConsole.csproj.CoreCompileInputs.cache
+C:\Users\Noct0\Documents\GitHub\RPG-CSHARP\RPGConsole\RPGConsole\bin\Debug\netcoreapp3.1\RPGConsole.exe
+C:\Users\Noct0\Documents\GitHub\RPG-CSHARP\RPGConsole\RPGConsole\bin\Debug\netcoreapp3.1\RPGConsole.deps.json
+C:\Users\Noct0\Documents\GitHub\RPG-CSHARP\RPGConsole\RPGConsole\bin\Debug\netcoreapp3.1\RPGConsole.runtimeconfig.json
+C:\Users\Noct0\Documents\GitHub\RPG-CSHARP\RPGConsole\RPGConsole\bin\Debug\netcoreapp3.1\RPGConsole.runtimeconfig.dev.json
+C:\Users\Noct0\Documents\GitHub\RPG-CSHARP\RPGConsole\RPGConsole\bin\Debug\netcoreapp3.1\RPGConsole.dll
+C:\Users\Noct0\Documents\GitHub\RPG-CSHARP\RPGConsole\RPGConsole\bin\Debug\netcoreapp3.1\RPGConsole.pdb
+C:\Users\Noct0\Documents\GitHub\RPG-CSHARP\RPGConsole\RPGConsole\obj\Debug\netcoreapp3.1\RPGConsole.dll
+C:\Users\Noct0\Documents\GitHub\RPG-CSHARP\RPGConsole\RPGConsole\obj\Debug\netcoreapp3.1\RPGConsole.pdb
+C:\Users\Noct0\Documents\GitHub\RPG-CSHARP\RPGConsole\RPGConsole\obj\Debug\netcoreapp3.1\RPGConsole.genruntimeconfig.cache

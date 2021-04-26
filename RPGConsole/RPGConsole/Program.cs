@@ -31,6 +31,7 @@ namespace RPGConsole
                 Console.WriteLine("Turno del heroe");
                 Console.WriteLine("");
 
+                Console.WriteLine("Vida del Heroe: " + vidaHeroe);
                 Console.WriteLine("El Heroe ataca al Villano y le quita " + ataqueHeroe);
 
                 vidaVillano -= ataqueHeroe;
@@ -44,7 +45,7 @@ namespace RPGConsole
                     break;
                 }
 
-                Console.WriteLine("Vida del Villano: " + );
+                Console.WriteLine("Vida del Villano: " + vidaVillano);
                 Console.WriteLine("El Villano ataca al Heroe y le quita " + ataqueVillano);
 
                 vidaHeroe -= ataqueVillano;
