@@ -10,6 +10,12 @@ Inventory
 
 Missions
 
+Graphics 2D
+
+Move
+
+Settings
+
 # Optional
 Translation ES, EN ...
 
